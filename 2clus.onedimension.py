@@ -19,3 +19,4 @@ plt.scatter(df['R'], df['W'], c= model.labels_.astype(float), s=50, alpha=0.5)
 plt.scatter(centroids[:, 0], centroids[:, 1], c='green', s=50)
 plt.show()
 #you see 3 clusters with 3 distinct centroids
+#hiiii
